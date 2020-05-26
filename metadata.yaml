@@ -1,0 +1,25 @@
+_repo: Eduskuntalaisten-koulu-1-naytoksinen-pila_62210
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finne, Jalmari
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '43291'
+    url: http://www.gutenberg.org/2009/agents/43291
+    wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Finne
+description: ''
+gutenberg_issued: '2020-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62210'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Eduskuntalaisten koulu
+
+  1-näytöksinen pila'
+url: http://www.gutenberg.org/ebooks/62210
